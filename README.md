@@ -54,4 +54,4 @@ badukAI，有加速权重，能提升katago和leelazero在手机上的运行速�
   
 苹果ios：
 围棋老师，有对苹果手机处理器的加速。  
-围棋ai--katago围棋老师，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度加曼
+围棋ai--katago围棋老师，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度极慢。
