@@ -39,4 +39,5 @@ colab跑普：[跑普链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 
 ### 电脑：
 
-lizzle yzy,可到官方QQ群下载，群号867298807  
+lizzle yzy,受到广泛使用，可到官方QQ群下载，群号867298807  
+[lizzle](https://github.com/featurecat/lizzie/releases/tag/0.7.4)，lizzleyzy便是源自此软件。
