@@ -32,8 +32,8 @@
 
 当然可以！我们很鼓励大家贡献自己的算力使katago更为强大！
 事先准备：在[官网](katagotraining.org)注册一个账号，记得验证邮箱哦！  
-如果是使用本机：在contribute_example.cfg修改用户名密码和想要同时跑的盘数，在命令行cd到katago所在文件夹，然后输入命令 katago.exe contribute -config contribute_example.cfg 即可开始跑普啦！  
-colab跑普：[跑普链接](https://colab.research.google.com/drive/1cxg1m2Dx-jReCGrMAAoE9mpCmlfBINTy?usp=sharing#scrollTo=cr_mVMzXi4KM)，修改用户名密码后运行即可。# ikatago-faq
+如果是使用本机：在contribute_example.cfg修改用户名密码和想要同时跑的盘数，在命令行cd到katago所在文件夹，然后输入命令 katago.exe contribute -config contribute_example.cfg 即可开始跑谱啦！  
+colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-jReCGrMAAoE9mpCmlfBINTy?usp=sharing#scrollTo=cr_mVMzXi4KM)，修改用户名密码后运行即可。# ikatago-faq
 
 ## 有什么软件可以运行katago/ikatago呢？
 
