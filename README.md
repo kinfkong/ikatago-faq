@@ -1,0 +1,1 @@
+# ikatago-faq
