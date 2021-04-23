@@ -4,18 +4,18 @@
 
 ### 以下是暂时已知的租机平台，皆可将ikatago.ipynbs上传到juypter notebook使用：
 
-[智星云](http://www.ai-galaxy.cn/)，直接在手机小程序选择ikatago镜像，输入用户名和密码后即可运行。  
-[恒源智享云](https://gpushare.com/)，可选择在juypter内上传，或使用ikatago镜像，[教程](https://gpushare.com/docs/best_practices/ikatago/)在此。  
-[极链云](https://cloud.videojj.com/)  
-[mistgpu](https://mistgpu.com/)  
-[Featurize](https://featurize.cn/)  
-[矩池云](https://www.matpool.com/)  
-[极客云](https://www.jikecloud.net/)  
+-[智星云](http://www.ai-galaxy.cn/)，直接在手机小程序选择ikatago镜像，输入用户名和密码后即可运行。  
+-[恒源智享云](https://gpushare.com/)，可选择在juypter内上传，或使用ikatago镜像，[教程](https://gpushare.com/docs/best_practices/ikatago/)在此。  
+-[极链云](https://cloud.videojj.com/)  
+-[mistgpu](https://mistgpu.com/)  
+-[Featurize](https://featurize.cn/)  
+-[矩池云](https://www.matpool.com/)  
+-[极客云](https://www.jikecloud.net/)  
 
 ### 以下是可上传文件的云电脑平台，可将群文件中的ikatago-server整合包上传到云桌面使用：
 
-[顺网云电脑](https://cpc.icloud.cn/)  
-[青椒云电脑](https://www.qingjiaocloud.com/)
+-[顺网云电脑](https://cpc.icloud.cn/)  
+-[青椒云电脑](https://www.qingjiaocloud.com/)
 
 ## 权重类问题
 
@@ -39,19 +39,20 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 
 ### 电脑：
 
-lizzie yzy，受到广泛使用，可到官方QQ群下载，群号867298807。  
-[lizzie](https://github.com/featurecat/lizzie)，lizzieyzy便是源自此软件。  
-[sabaki](https://github.com/SabakiHQ/Sabaki)，这个软件的优点是外形美观,但需少量计算机知识。  
-[KaTrain](https://github.com/sanderland/katrain)，这个软件整合了很多katago引擎，很方便。  
-[LizGoban](https://github.com/kaorahi/lizgoban)  
-[q5Go](https://github.com/bernds/q5Go)  
-[gogui](https://github.com/Remi-Coulom/gogui) 
+-lizzie yzy，受到广泛使用，可到官方QQ群下载，群号867298807。  
+-[lizzie](https://github.com/featurecat/lizzie)，lizzieyzy便是源自此软件。  
+-[sabaki](https://github.com/SabakiHQ/Sabaki)，这个软件的优点是外形美观,但需少量计算机知识。  
+-[KaTrain](https://github.com/sanderland/katrain)，这个软件整合了很多katago引擎，很方便。  
+-[LizGoban](https://github.com/kaorahi/lizgoban)  
+-[q5Go](https://github.com/bernds/q5Go)  
+-[gogui](https://github.com/Remi-Coulom/gogui) 
 
 ### 手机：
 
 安卓：  
-badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度，可在ikatago群文件内下载。  
+-badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度，可在ikatago群文件内下载。 
+-阿Q围棋，分为专业版（付费）和免费版，专业版可使用ikatago。进群获取，普通版：278743263，专业版：772521774  
   
 苹果ios：
-围棋老师，有对苹果手机处理器的加速。  
-围棋ai--katago围棋老师，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度极慢。
+-围棋老师，付费软件，有对苹果手机处理器的加速。  
+-围棋ai--katago围棋老师，付费软件，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度极慢。
