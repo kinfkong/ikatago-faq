@@ -45,4 +45,13 @@ lizzie yzy，受到广泛使用，可到官方QQ群下载，群号867298807。
 [KaTrain](https://github.com/sanderland/katrain)，这个软件整合了很多katago引擎，很方便。  
 [LizGoban](https://github.com/kaorahi/lizgoban)  
 [q5Go](https://github.com/bernds/q5Go)  
-[gogui](https://github.com/Remi-Coulom/gogui)  
+[gogui](https://github.com/Remi-Coulom/gogui) 
+
+### 手机：
+
+安卓：  
+badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度。  
+  
+苹果ios：
+围棋老师，有对苹果手机处理器的加速。
+围棋ai--katago围棋老师，可以使用
