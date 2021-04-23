@@ -21,7 +21,7 @@
 
 ### katago最强最新的40b权重可以在那里下载呢？
 
-最新最强的权重可以在[katago分布式训练官网](katagotraining.org)下载，找到Strongest confidently-rated network字样，后面便是下载链接。  
+最新最强的权重可以在[katago分布式训练官网](https://katagotraining.org/)下载，找到Strongest confidently-rated network字样，后面便是下载链接。  
 例：Strongest confidently-rated network: [kata1-b40c256-s7660552704-d1858058038](https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b40c256-s7660552704-d1858058038.bin.gz)
 
 ### katago目前最强的60b权重在哪里下载呢？
@@ -31,7 +31,7 @@
 ### 我有可能帮助到katago训练吗？
 
 当然可以！我们很鼓励大家贡献自己的算力使katago更为强大！
-事先准备：在[官网](katagotraining.org)注册一个账号，记得验证邮箱哦！  
+事先准备：在[官网](https://katagotraining.org/)注册一个账号，记得验证邮箱哦！  
 如果是使用本机：在contribute_example.cfg修改用户名密码和想要同时跑的盘数，在命令行cd到katago所在文件夹，然后输入命令 katago.exe contribute -config contribute_example.cfg 即可开始跑谱啦！  
 colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-jReCGrMAAoE9mpCmlfBINTy?usp=sharing#scrollTo=cr_mVMzXi4KM)，修改用户名密码后运行即可。# ikatago-faq
 
