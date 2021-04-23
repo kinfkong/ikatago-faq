@@ -50,8 +50,8 @@ lizzie yzy，受到广泛使用，可到官方QQ群下载，群号867298807。
 ### 手机：
 
 安卓：  
-badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度。  
+badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度，可在ikatago群文件内下载。  
   
 苹果ios：
 围棋老师，有对苹果手机处理器的加速。  
-围棋ai--katago围棋老师，可以使用
+围棋ai--katago围棋老师，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度加曼
