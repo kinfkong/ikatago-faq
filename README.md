@@ -28,6 +28,10 @@
 
 [60b248号权重](https://media.katagotraining.org/uploaded/networks/models/kata1-extra/b60c320-s2480283136-d1813743898.bin.gz)
 
+### 听说有混血权重？
+
+是的，DreamKeeper大大写了一个colab混血工具，混的好的话有可能超越官权。[链接](https://colab.research.google.com/drive/116DUPlzw6JQvB4-kqrbvk0ad50-QcSJL#scrollTo=nPaa2KJt8Kyn)在此
+
 ### 我有可能帮助到katago训练吗？
 
 当然可以！我们很鼓励大家贡献自己的算力使katago更为强大！
