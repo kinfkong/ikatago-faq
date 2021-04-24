@@ -25,6 +25,13 @@
 
 ## 权重类问题
 
+### ikatago各平台都是什么权重呢？
+
+-智星云：为kata1最强权重，实时更新。  
+-使用ikatago.ipynb的个各平台：暂时为kata1-717，群主会不定时更新。  
+-colab及Paperspace Gradient：可自行选择权重。  
+-各云电脑平台：使用ikatago-server整合包，目前为AVG_743_751_766，整合者会不定时更新。
+
 ### katago最强最新的40b权重可以在那里下载呢？
 
 最新最强的权重可以在[katago分布式训练官网](https://katagotraining.org/)下载，找到Strongest confidently-rated network字样，后面便是下载链接。  
