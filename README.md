@@ -2,7 +2,7 @@
 
 ## 都有什么租机平台呢？
 
-### 免费平台
+### 免费平台：
 
 -[ikatago for colab](https://colab.research.google.com/drive/1BT4GAlHC1p0gEtujp3EtAYgFSPIjLzxs?usp=sharing
 ) 提供T4  
