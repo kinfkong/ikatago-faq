@@ -61,3 +61,11 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 苹果ios：  
 -围棋老师，付费软件，有对苹果手机处理器的加速。  
 -围棋ai--katago围棋老师，付费软件，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度极慢。
+
+## 我出门在外，想用手机连接自己的电脑分析棋，怎么办呢？
+
+可以到ikatago群文件下载ikatago-server整合包，下载后解压，看使用说明，内有指示。
+
+## 最新版的ikatago client是github上的1.3.1版吗？
+
+不是，可以到ikatago群文件内下载最新的1.3.3，但没什么大改动，1.3.1可继续使用。
