@@ -73,3 +73,5 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 ## KataGo的最新引擎可以在哪里下载呢？
 
 [KataGo 1.8.2 下载链接](https://github.com/lightvector/KataGo/releases/tag/v1.8.2)
+
+## ikatago是一个互惠互助的社群，有什么问题可以在群内向群主及管理员提出哦！
