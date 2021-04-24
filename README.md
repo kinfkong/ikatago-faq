@@ -2,6 +2,13 @@
 
 ## 都有什么租机平台呢？
 
+### 免费平台
+
+colab：[ikatago for colab](https://colab.research.google.com/drive/1BT4GAlHC1p0gEtujp3EtAYgFSPIjLzxs?usp=sharing
+) 提供T4  
+Paperspace Gradient：提供 P5000 或 M4000  
+[项目链接](https://console.paperspace.com/tefri7r9s/notebook/rv38dxdi1218c50?file=ikatago_for_gradient.ipynb)，fork后直接运行即可  
+注意事项： 新用户似乎已不能使用P5000，旧用户仍然可以。
 ### 以下是暂时已知的租机平台，皆可将ikatago.ipynbs上传到juypter notebook使用：
 
 -[智星云](http://www.ai-galaxy.cn/)，直接在手机小程序选择ikatago镜像，输入用户名和密码后即可运行。  
