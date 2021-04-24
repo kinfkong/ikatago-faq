@@ -69,3 +69,7 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 ## 最新版的ikatago client是github上的1.3.1版吗？
 
 不是，可以到ikatago群文件内下载最新的1.3.3，但没什么大改动，1.3.1可继续使用。
+
+## KataGo的最新引擎可以在哪里下载呢？
+
+[KataGo 1.8.2 下载链接](https://github.com/lightvector/KataGo/releases/tag/v1.8.2)
