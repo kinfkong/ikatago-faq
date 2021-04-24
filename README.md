@@ -60,7 +60,7 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
   
 苹果ios：  
 -[围棋老师](https://apps.apple.com/us/app/%E5%9B%B4%E6%A3%8B%E8%80%81%E5%B8%88/id1442035374?l=zh)，付费软件，有对苹果手机处理器的加速。  
--[围棋ai--katago围棋老师，付费软件](https://apps.apple.com/cn/app/%E5%9B%B4%E6%A3%8Bkatago-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%B4%E6%A3%8B%E8%80%81%E5%B8%88/id1509047602)，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度极慢。
+-[围棋ai--katago围棋老师](https://apps.apple.com/cn/app/%E5%9B%B4%E6%A3%8Bkatago-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%B4%E6%A3%8B%E8%80%81%E5%B8%88/id1509047602)，付费软件，可以使用ikatago及作者提供之机器，但如不购买VIP,机器速度极慢。
 
 ## 我出门在外，想用手机连接自己的电脑分析棋，怎么办呢？
 
