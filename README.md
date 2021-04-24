@@ -64,7 +64,8 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 
 ## 我出门在外，想用手机连接自己的电脑分析棋，怎么办呢？
 
-可以到ikatago群文件下载ikatago-server整合包，下载后解压，看使用说明，内有指示。
+可以到ikatago群文件下载ikatago-server整合包，下载后解压，看使用说明，内有指示。  
+按指示做好后，启动ikatago-server.bat，然后用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
 
 ## 最新版的ikatago client是github上的1.3.1版吗？
 
