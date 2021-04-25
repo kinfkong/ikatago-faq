@@ -10,7 +10,13 @@
 
 ### 以下是暂时已知的租机平台，皆可将ikatago.ipynbs上传到juypter notebook使用：
 
--[智星云](http://www.ai-galaxy.cn/)，直接在手机小程序选择ikatago镜像，输入用户名和密码后即可运行。  
+-[智星云](http://www.ai-galaxy.cn/)，基本顺序和思路是：  
+1. 微信搜智星云的小程序  
+2. 选择你需要的机器，镜像选ikatago.  
+3. 填上ikatago配置的用户名密码（自己随便起，记住就行）  
+4. 智星云开机。  
+5. lizzieyzy里添加一个引擎: C:\xxx\ikatago.exe --platform all --username xxx --password yyy ，xxx/yyy分别是你在智星云上的用户名、密码。  
+
 -[恒源智享云](https://gpushare.com/)，可选择在juypter内上传，或使用ikatago镜像，[教程](https://gpushare.com/docs/best_practices/ikatago/)在此。  
 -[极链云](https://cloud.videojj.com/)  
 -[mistgpu](https://mistgpu.com/)  
