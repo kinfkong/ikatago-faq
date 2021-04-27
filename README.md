@@ -12,7 +12,7 @@
 
 ### 以下是暂时已知的租机平台，皆可将ikatago.ipynbs上传到juypter notebook使用：
 
--[智星云](http://www.ai-galaxy.cn/)，基本顺序和思路是：  
+-[智星云](http://www.ai-galaxy.cn/)，[教程](https://mp.weixin.qq.com/s/QM1VRKROSutr8cQq1lstAA)在此，基本顺序和思路是：  
 1. 微信搜智星云的小程序  
 2. 选择你需要的机器，镜像选ikatago.  
 3. 填上ikatago配置的用户名密码（自己随便起，记住就行）  
