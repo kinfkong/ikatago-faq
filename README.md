@@ -51,7 +51,8 @@
 
 ### 听说有混血权重？
 
-是的，DreamKeeper大大写了一个colab混血工具，混的好的话有可能超越官权。[链接](https://colab.research.google.com/drive/116DUPlzw6JQvB4-kqrbvk0ad50-QcSJL#scrollTo=nPaa2KJt8Kyn)在此
+是的，DreamKeeper大大写了一个colab混血工具，混的好的话有可能超越官权。[链接](https://colab.research.google.com/drive/116DUPlzw6JQvB4-kqrbvk0ad50-QcSJL#scrollTo=nPaa2KJt8Kyn)在此  
+注：一般使用正常colab即可，此仅供混血
 
 ### 我有可能帮助到katago训练吗？
 
