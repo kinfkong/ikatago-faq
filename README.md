@@ -7,7 +7,7 @@
 ### 免费平台：
 
 -[ikatago for colab](https://colab.research.google.com/drive/1BT4GAlHC1p0gEtujp3EtAYgFSPIjLzxs?usp=sharing
-) 提供T4  
+) 提供T4，另附colab功能详解，[下载链接](https://github.com/jiusi010302/colab-ikatago-server/releases/download/V1.0/COLAB-IKATAGO.210505.docx)  
 -Paperspace Gradient：提供 M4000，[项目链接](https://console.paperspace.com/tefri7r9s/notebook/rv38dxdi1218c50?file=ikatago_for_gradient.ipynb)，fork后直接运行即可
 
 ### 以下是暂时已知的租机平台，皆可将ikatago.ipynbs上传到juypter notebook使用：
