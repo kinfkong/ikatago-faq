@@ -47,7 +47,7 @@
 
 ### katago目前最强的60b权重在哪里下载呢？
 
-[60b275号权重](http://media.katagotraining.org/uploaded/networks/models/kata1-extra/kata1-b60c320-s2751390208-d1889552932.bin.gz)
+[60b275号权重](https://github.com/jiusi010302/colab-ikatago-server/releases/download/V1.0/b60s275.bin.gz)
 
 ### 听说有混血权重？
 
