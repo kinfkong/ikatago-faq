@@ -43,8 +43,7 @@
 ### katago最强最新的40b权重可以在那里下载呢？
 
 最新最强的权重可以在[katago分布式训练官网](https://katagotraining.org/)下载，找到Strongest confidently-rated network字样，后面便是下载链接。  
-例：Strongest confidently-rated network: [kata1-b40c256-s7907049728-d1917596640](https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b40c256-s7907049728-d1917596640.bin.gz)
-
+例：Strongest confidently-rated network: [kata1-b40c256-s8073397504-d19581614180](https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b40c256-s8073397504-d1958161418.bin.gz)
 ### katago目前最强的60b权重在哪里下载呢？
 
 [60b275号权重](https://github.com/jiusi010302/colab-ikatago-server/releases/download/V1.0/b60s275.bin.gz)
@@ -86,7 +85,7 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 
 ## 我出门在外，想用手机连接自己的电脑分析棋，怎么办呢？
 
-### windows:
+### Windows:
 
 可以到ikatago群文件下载ikatago-server整合包，下载后解压，看使用说明，内有指示。  
 按指示做好后，启动ikatago-server.bat，然后用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
