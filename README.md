@@ -100,7 +100,7 @@ chmod +x ./install.sh
 然后:
 cd ~/work && ./run.sh 用户名 密码
 
-按指示做好后，启动ikatago-server.bat，然后用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
+server启动成功后，用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
 
 ## 最新版的ikatago client是github上的1.3.1版吗？
 
