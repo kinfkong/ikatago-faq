@@ -92,13 +92,13 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 按指示做好后，启动ikatago-server.bat，然后用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
 
 ### Linux:
-cd ~
-wget -q https://ikatago-resources.oss-cn-beijing.aliyuncs.com/all/install.sh -O install.sh
-chmod +x ./install.sh
-./install.sh
-终端里输入上面几条命令安装。
-然后:
-cd ~/work && ./run.sh 用户名 密码
+cd ~  
+wget -q https://ikatago-resources.oss-cn-beijing.aliyuncs.com/all/install.sh -O install.sh  
+chmod +x ./install.sh  
+./install.sh  
+终端里输入上面几条命令安装。  
+然后:  
+cd ~/work && ./run.sh 用户名 密码  
 
 server启动成功后，用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
 
