@@ -43,7 +43,7 @@
 ### katago最强最新的40b权重可以在那里下载呢？
 
 最新最强的权重可以在[katago分布式训练官网](https://katagotraining.org/)下载，找到Strongest confidently-rated network字样，后面便是下载链接。  
-例：Strongest confidently-rated network: [kata1-b40c256-s8073397504-d19581614180](https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b40c256-s8073397504-d1958161418.bin.gz)
+例：Strongest confidently-rated network: [kata1-b40c256-s8303739392-d2019960373](https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b40c256-s8303739392-d2019960373.bin.gz)
 ### katago目前最强的60b权重在哪里下载呢？
 
 [60b275号权重](https://github.com/jiusi010302/colab-ikatago-server/releases/download/V1.0/b60s275.bin.gz)
