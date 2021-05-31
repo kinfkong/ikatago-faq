@@ -77,7 +77,8 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 
 安卓：  
 -badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度，可在ikatago群文件内下载。   
--阿Q围棋，分为专业版（付费）和免费版，专业版可使用ikatago。进群获取，普通版：278743263，专业版：772521774  
+-阿Q围棋，分为专业版（付费）和免费版，专业版可使用ikatago。进群获取，普通版：278743263，专业版：772521774 
+-AI围棋，群主免费提供机器给使用者用，亦可免费使用ikatago，可在ikatago群文件下载。
   
 苹果ios：  
 -[围棋老师](https://apps.apple.com/us/app/%E5%9B%B4%E6%A3%8B%E8%80%81%E5%B8%88/id1442035374?l=zh)，付费软件，有对苹果手机处理器的加速。  
@@ -99,7 +100,7 @@ chmod +x ./install.sh
 然后:  
 cd ~/work && ./run.sh 用户名 密码  
 
-server启动成功后，用手机上的阿Q围棋（安卓）或 围棋ai--katago围棋老师（ios）连接即可。
+server启动成功后，用手机上的阿Q围棋（安卓）， AI围棋（安卓） 或 围棋ai--katago围棋老师（ios）连接即可。
 
 ## 最新版的ikatago client是github上的1.3.1版吗？
 
