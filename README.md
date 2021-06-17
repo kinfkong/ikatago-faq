@@ -77,7 +77,7 @@ colab跑普：[跑谱链接](https://colab.research.google.com/drive/1cxg1m2Dx-j
 
 安卓：  
 -badukAI，有加速权重，能提升katago和leelazero在手机上的运行速度，可在ikatago群文件内下载。   
--阿Q围棋，分为专业版（付费）和免费版，专业版可使用ikatago。进群获取，普通版：278743263，专业版：772521774 
+-阿Q围棋，分为专业版（付费）和免费版，专业版可使用ikatago。进群获取，普通版：278743263，专业版：772521774  
 -AI围棋，群主免费提供机器给使用者用，亦可免费使用ikatago，可在ikatago群文件下载。
   
 苹果ios：  
