@@ -23,7 +23,7 @@
 -[极链云](https://cloud.videojj.com/)  
 -[mistgpu](https://mistgpu.com/)  
 -[Featurize](https://featurize.cn/)  
--[矩池云](https://www.matpool.com/)  
+-[矩池云](https://www.matpool.com/)  ，[教程](https://github.com/kinfkong/ikatago-server/issues/1)在这里。
 -[极客云](https://www.jikecloud.net/)  
 
 ### 以下是可上传文件的云电脑平台，可将群文件中的ikatago-server整合包上传到云桌面使用：
